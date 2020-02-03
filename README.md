@@ -9,3 +9,12 @@ List all open ports <br>
 Kill port <br>
 
 <i> sudo kill -9 <-PID number-> </i>
+
+
+### files
+
+Create folder <br>
+<i>mkdir</i>
+
+Compleatly remove file by force <br>
+<i> rm -rf "filename" </i>
