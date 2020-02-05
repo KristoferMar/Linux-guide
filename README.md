@@ -8,7 +8,7 @@ To execute admin commands we make use of the <i>sudo</i> command.
 
 List all open ports <br>
 
-<i> sudo lsof -nPi | grep LISTEN </i>
+<i> lsof -nPi | grep LISTEN </i>
 
 Kill port <br>
 
