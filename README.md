@@ -1,5 +1,9 @@
 # terminal-guide
 
+This is a guide with notes to how to execute different kinds of commands. 
+
+To execute admin commands we make use of the <i>sudo</i> command.
+
 ### Ports
 
 List all open ports <br>
@@ -8,7 +12,7 @@ List all open ports <br>
 
 Kill port <br>
 
-<i> sudo kill -9 <-PID number-> </i>
+<i> kill -9 <-PID number-> </i>
 
 
 ### files
