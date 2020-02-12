@@ -24,6 +24,9 @@ Create folder <br>
 Compleatly remove file by force <br>
 <i> rm -rf "filename" </i>
 
+<b>Execute shell scripts <br></b>
+<i>sh 'Drag and drop shell script file' </i>
+
 ## Java
 
 Java is configurable on mac. 
