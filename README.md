@@ -28,5 +28,5 @@ Compleatly remove file by force <br>
 
 Java is configurable on mac. 
 
-Below we find how we can change our java version on mac.
+Below we find how we can change our java version on mac. <br>
 https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions
