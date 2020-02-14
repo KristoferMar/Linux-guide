@@ -32,7 +32,9 @@ Compleatly remove file by force <br>
 Java is configurable on mac. 
 
 Below we find how we can change our java version on mac. <br>
-https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions
+https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions <br>
+
+https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x
 
 # Good to know
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
