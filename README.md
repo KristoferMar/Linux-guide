@@ -34,6 +34,7 @@ Java is configurable on mac.
 Below we find how we can change our java version on mac. <br>
 https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions <br>
 
+Change default java version manually in terminal <br>
 https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x
 
 # Good to know
