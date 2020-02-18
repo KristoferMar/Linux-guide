@@ -21,6 +21,9 @@ Kill port <br>
 Create folder <br>
 <i>mkdir</i>
 
+View file without change <br>
+<b><i>less</i></b>
+
 Compleatly remove file by force <br>
 <i> rm -rf "filename" </i>
 
