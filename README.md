@@ -30,6 +30,10 @@ Compleatly remove file by force <br>
 <b>Execute shell scripts <br></b>
 <i>sh 'Drag and drop shell script file' </i>
 
+Open file in current directory <br>
+VSCode: <b><i>code .</i></b> <br>
+Intelij: <b><i>idea .</i></b>
+
 ## Java
 
 Java is configurable on mac. 
