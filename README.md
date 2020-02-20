@@ -24,6 +24,9 @@ Create folder <br>
 View file without change <br>
 <b><i>less</i></b>
 
+View file for changes (live) <br>
+<b><i>tail -f </i></b>
+
 Compleatly remove file by force <br>
 <i> rm -rf "filename" </i>
 
