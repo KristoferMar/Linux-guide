@@ -4,6 +4,12 @@ This is a guide with notes to how to execute different kinds of commands.
 
 To execute admin commands we make use of the <i>sudo</i> command.
 
+## Key commands 
+
+Ctrl + W : delete just a word. <br>
+Ctrl + U : clear up to the beginning. <br>
+Ctrl + C : To Cancle (also in middle line) <br>
+
 ### Ports
 
 List all open ports <br>
