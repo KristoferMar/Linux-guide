@@ -46,6 +46,14 @@ Intelij: <b><i>idea .</i></b>
 Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b>
 
+## Terminal Configuration
+
+Create Alias and Export's<br>
+1. Create your alias or export by accessing bash_profile<br>
+<b><i>nano ~/.bash_profile</i></b> <br>
+2. Refresh the shell environment <br>
+<b><i>source ~/.bash_profile</i></b>
+
 ## Java
 
 Java is configurable on mac. 
