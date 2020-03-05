@@ -43,6 +43,9 @@ Open file in current directory <br>
 VSCode: <b><i>code .</i></b> <br>
 Intelij: <b><i>idea .</i></b>
 
+Access/Edit mac host file <br>
+<b><i>sudo nano /private/etc/hosts</i></b>
+
 ## Java
 
 Java is configurable on mac. 
