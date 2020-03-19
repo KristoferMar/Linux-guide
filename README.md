@@ -46,6 +46,12 @@ Intelij: <b><i>idea .</i></b>
 Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b>
 
+## Directories
+
+Directory commands can be found in the following file: <br>
+https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh
+
+
 ## Terminal Configuration
 
 Create Alias and Export's<br>
