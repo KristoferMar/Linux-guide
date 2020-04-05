@@ -48,7 +48,7 @@ Access/Edit mac host file <br>
 <h2>Directories</h2> <br>
 
 Directory commands can be found in the following file: <br>
-https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh
+<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a>
 
 
 <h2>Terminal Configuration</h2> <br>
