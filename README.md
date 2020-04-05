@@ -13,13 +13,13 @@ List all open ports <br>
 <i> lsof -nPi | grep LISTEN </i>
 
 Kill port <br>
-<i> kill -9 'PID Number'> </i>
+<i><b> kill -9 'PID Number'></b> </i>
 <br><br>
 
 <h3>files</h3>
 
 <b>Check current directory path<br> </b>
-<i>pwd</i> <br>
+<i><b>pwd</b></i> <br>
 
 Create folder <br>
 <i>mkdir</i> <br>
@@ -31,7 +31,7 @@ View file for changes (live) <br>
 <b><i>tail -f </i></b><br>
 
 Compleatly remove file by force <br>
-<i> rm -rf "filename" </i> <br>
+<i><b> rm -rf "filename"</b> </i> <br>
 
 <b>Execute shell scripts <br></b>
 <i>sh 'Drag and drop shell script file' </i><br>
