@@ -19,22 +19,22 @@ Kill port <br>
 <h3>files</h3>
 
 <b>Check current directory path<br> </b>
-<i>pwd</i>
+<i>pwd</i> <br>
 
 Create folder <br>
-<i>mkdir</i>
+<i>mkdir</i> <br>
 
 View file without change <br>
-<b><i>less</i></b>
+<b><i>less</i></b><br>
 
 View file for changes (live) <br>
-<b><i>tail -f </i></b>
+<b><i>tail -f </i></b><br>
 
 Compleatly remove file by force <br>
-<i> rm -rf "filename" </i>
+<i> rm -rf "filename" </i> <br>
 
 <b>Execute shell scripts <br></b>
-<i>sh 'Drag and drop shell script file' </i>
+<i>sh 'Drag and drop shell script file' </i><br>
 
 Open file in current directory <br>
 VSCode: <b><i>code .</i></b> <br>
