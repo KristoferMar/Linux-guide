@@ -1,15 +1,15 @@
 <h2>Terminal-guide</h2> <br>
 
 This is a guide with notes to how to execute different kinds of commands. <br>
-To execute admin commands we make use of the <i>sudo</i> command. <br>
+To execute admin commands we make use of the <i>sudo</i> command. <br><br>
 
-## Key commands <br>
+<h3>Key commands</h3> <br>
 
 Ctrl + W : delete just a word. <br>
 Ctrl + U : clear up to the beginning. <br>
 Ctrl + C : To Cancle (also in middle line) <br>
 
-### Ports <br>
+<h3>Ports</h3> <br>
 
 List all open ports <br>
 <i> lsof -nPi | grep LISTEN </i>
@@ -18,7 +18,7 @@ Kill port <br>
 <i> kill -9 'PID Number'> </i>
 
 
-### files <br>
+<h3>files</h3> <br>
 
 <b>Check current directory path<br> </b>
 <i>pwd</i>
@@ -45,13 +45,13 @@ Intelij: <b><i>idea .</i></b>
 Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b>
 
-## Directories <br>
+<h2>Directories</h2> <br>
 
 Directory commands can be found in the following file: <br>
 https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh
 
 
-## Terminal Configuration <br>
+<h2>Terminal Configuration</h2> <br>
 
 Create Alias and Export's<br>
 1. Create your alias or export by accessing bash_profile<br>
@@ -59,7 +59,7 @@ Create Alias and Export's<br>
 2. Refresh the shell environment <br>
 <b><i>source ~/.bash_profile</i></b>
 
-## Java <br>
+<h2>Java</h2> <br>
 
 Java is configurable on mac. <br>
 
