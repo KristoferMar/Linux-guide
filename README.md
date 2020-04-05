@@ -1,10 +1,8 @@
-<h2>Terminal-guide</h2> <br>
-
+<h2>Terminal-guide</h2>
 This is a guide with notes to how to execute different kinds of commands. <br>
 To execute admin commands we make use of the <i>sudo</i> command. <br><br>
 
-<h3>Key commands</h3> <br>
-
+<h3>Key commands</h3>
 Ctrl + W : delete just a word. <br>
 Ctrl + U : clear up to the beginning. <br>
 Ctrl + C : To Cancle (also in middle line) <br><br>
