@@ -14,7 +14,7 @@ List all open ports <br>
 
 Kill port <br>
 <i> kill -9 'PID Number'> </i>
-
+<br><br>
 
 <h3>files</h3>
 
