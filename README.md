@@ -1,4 +1,5 @@
 # Terminal-guide
+<br>
 
 This is a guide with notes to how to execute different kinds of commands. 
 
