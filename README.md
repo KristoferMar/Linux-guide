@@ -22,7 +22,7 @@ Kill port <br>
 <i><b>pwd</b></i> <br>
 
 Create folder <br>
-<i>mkdir</i> <br>
+<i><b>mkdir</b></i> <br>
 
 View file without change <br>
 <b><i>less</i></b><br>
