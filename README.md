@@ -1,4 +1,4 @@
-# <h4>Terminal-guide</h4> <br>
+<h4>Terminal-guide</h4> <br>
 
 This is a guide with notes to how to execute different kinds of commands. <br>
 To execute admin commands we make use of the <i>sudo</i> command. <br>
