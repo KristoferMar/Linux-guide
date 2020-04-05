@@ -3,22 +3,22 @@
 This is a guide with notes to how to execute different kinds of commands. <br>
 To execute admin commands we make use of the <i>sudo</i> command. <br>
 
-## Key commands 
+## Key commands <br>
 
 Ctrl + W : delete just a word. <br>
 Ctrl + U : clear up to the beginning. <br>
 Ctrl + C : To Cancle (also in middle line) <br>
 
-### Ports
+### Ports <br>
 
 List all open ports <br>
 <i> lsof -nPi | grep LISTEN </i>
 
 Kill port <br>
-<i> kill -9 <-PID number-> </i>
+<i> kill -9 'PID Number'> </i>
 
 
-### files
+### files <br>
 
 <b>Check current directory path<br> </b>
 <i>pwd</i>
@@ -45,13 +45,13 @@ Intelij: <b><i>idea .</i></b>
 Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b>
 
-## Directories
+## Directories <br>
 
 Directory commands can be found in the following file: <br>
 https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh
 
 
-## Terminal Configuration
+## Terminal Configuration <br>
 
 Create Alias and Export's<br>
 1. Create your alias or export by accessing bash_profile<br>
@@ -59,9 +59,9 @@ Create Alias and Export's<br>
 2. Refresh the shell environment <br>
 <b><i>source ~/.bash_profile</i></b>
 
-## Java
+## Java <br>
 
-Java is configurable on mac. 
+Java is configurable on mac. <br>
 
 Below we find how we can change our java version on mac. <br>
 https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions <br>
@@ -69,5 +69,5 @@ https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions
 Change default java version manually in terminal <br>
 https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x
 
-# Good to know
+# Good to know  <br>
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
