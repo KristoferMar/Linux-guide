@@ -1,7 +1,6 @@
 # Terminal-guide<br>
 
-This is a guide with notes to how to execute different kinds of commands. 
-
+This is a guide with notes to how to execute different kinds of commands. <br>
 To execute admin commands we make use of the <i>sudo</i> command.
 
 ## Key commands 
