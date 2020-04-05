@@ -41,21 +41,20 @@ VSCode: <b><i>code .</i></b> <br>
 Intelij: <b><i>idea .</i></b>
 
 Access/Edit mac host file <br>
-<b><i>sudo nano /private/etc/hosts</i></b><br>
+<b><i>sudo nano /private/etc/hosts</i></b><br><br>
 
 <h2>Directories</h2>
 
 Directory commands can be found in the following file: <br>
-<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br>
+<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
 
 
 <h2>Terminal Configuration</h2>
-
 Create Alias and Export's<br>
 1. Create your alias or export by accessing bash_profile<br>
 <b><i>nano ~/.bash_profile</i></b> <br>
 2. Refresh the shell environment <br>
-<b><i>source ~/.bash_profile</i></b><br>
+<b><i>source ~/.bash_profile</i></b><br><br>
 
 <h2>Java</h2>
 
@@ -65,7 +64,7 @@ Below we find how we can change our java version on mac. <br>
 <a href="https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions">https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions</a><br>
 
 Change default java version manually in terminal <br>
-<a href="https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x">https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x</a><br>
+<a href="https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x">https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x</a><br><br>
 
-<h2>Good to know</h2><br>
+<h2>Good to know</h2>
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
