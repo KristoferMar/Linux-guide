@@ -27,6 +27,9 @@ Create folder <br>
 View file without change <br>
 <b><i>less</i></b><br>
 
+Detailed information: <br>
+<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md</a><br>
+
 View file for changes (live) <br>
 <b><i>tail -f </i></b><br>
 
@@ -46,7 +49,6 @@ Access/Edit mac host file <br>
 <h2>Directories</h2>
 Directory commands can be found in the following file: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
-
 
 <h2>Terminal Configuration</h2>
 Create Alias and Export's<br>
