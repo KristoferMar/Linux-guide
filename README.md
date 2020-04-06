@@ -66,13 +66,7 @@ Save a file and exit: <br>
 or <br>
 <i>:x</i> <br>
 Trash all changes (exit without saving): <br>
-<i>:q!</i> <br>
-
-
-1. Create your alias or export by accessing bash_profile<br>
-<b><i>nano ~/.bash_profile</i></b> <br>
-2. Refresh the shell environment <br>
-<b><i>source ~/.bash_profile</i></b><br><br>
+<i>:q!</i> <br><br>
 
 <h2>Java</h2>
 
