@@ -44,13 +44,31 @@ Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b><br><br>
 
 <h2>Directories</h2>
-
 Directory commands can be found in the following file: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
 
 
 <h2>Terminal Configuration</h2>
 Create Alias and Export's<br>
+1. Create your alias or export by accessing bash_profile<br>
+<b><i>nano ~/.bash_profile</i></b> <br>
+2. Refresh the shell environment <br>
+<b><i>source ~/.bash_profile</i></b><br><br>
+
+<h2>Vim</h2>
+Vim is a text editor used to edit and configure files with on Linux/Unix. Vim is upwards compataible to Vi. Below you find the information on how to use VIM / VI. All characters that look eg like this ":s" are executed by pressing enter.<br>
+Escape any "Vim mode": <br>
+<i>"press esc" </i> <br>
+Insert / edit text: <br>
+<i>:i</i> <br>
+Save a file and exit: <br>
+<i>:wq</i> <br>
+or <br>
+<i>:x</i> <br>
+Trash all changes (exit without saving): <br>
+<i>:q!</i> <br>
+
+
 1. Create your alias or export by accessing bash_profile<br>
 <b><i>nano ~/.bash_profile</i></b> <br>
 2. Refresh the shell environment <br>
