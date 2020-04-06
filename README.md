@@ -25,8 +25,7 @@ Create folder <br>
 <i><b>mkdir</b></i> <br>
 
 View file without change <br>
-<b><i>less</i></b><br>
-
+<b><i>less</i></b>
 Detailed information: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md</a><br>
 

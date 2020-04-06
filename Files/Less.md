@@ -6,9 +6,9 @@ Once you'vee opened a log file (or any file) you can use the following keys to e
 
 ### Forward Search
 
-/ - Search for a pattern which will take you to the next occurrence
-n - for next match in forward
-N - for previous match in backwards
+- / - Search for a pattern which will take you to the next occurrence
+- n - for next match in forward
+- N - for previous match in backwards
 
 ### Less Command - Screen Navigation
 
