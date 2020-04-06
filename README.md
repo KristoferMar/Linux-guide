@@ -27,7 +27,7 @@ Create folder <br>
 View file without change <br>
 <b><i>less</i></b>
 Detailed information: <br>
-<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md</a><br>
+<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md" target="_blank">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md</a><br>
 
 View file for changes (live) <br>
 <b><i>tail -f </i></b><br>
