@@ -79,7 +79,7 @@ Below we find how we can change our java version on mac. <br>
 Change default java version manually in terminal <br>
 <a href="https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x">https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x</a><br><br>
 
-<span class="subsubTitleSection" id="Terminal status">Status</span> <br>
+<h3 class="subsubTitleSection" id="Terminal status">Status</h3> <br>
 Get uptime on server or mac: <br>
 <b><i>uptime</i></b> <br><br>
 
