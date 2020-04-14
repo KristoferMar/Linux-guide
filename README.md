@@ -2,22 +2,23 @@
 This is a guide with notes to how to execute different kinds of commands. <br>
 To execute admin commands we make use of the <i>sudo</i> command. <br><br>
 
-<h3>Key commands</h3>
+<h3 class="subsubTitleSection">Key commands</h3>
 Ctrl + W : delete just a word. <br>
 Ctrl + U : clear up to the beginning. <br>
-Ctrl + C : To Cancle (also in middle line) <br><br>
+Ctrl + C : To Cancle (also in middle line) <br>
 
-<h3>Ports</h3>
+<br>
 
+<h3 class="subsubTitleSection">Ports</h3>
 List all open ports <br>
 <i> lsof -nPi | grep LISTEN </i>
 
 Kill port <br>
-<i><b> kill -9 'PID Number'></b> </i>
-<br><br>
+<i><b> kill -9 'PID Number'></b></i><br>
 
-<h3>files</h3>
+<br>
 
+<h3 class="subsubTitleSection">Files</h3>
 <b>Check current directory path<br> </b>
 <i><b>pwd</b></i> <br>
 
@@ -49,7 +50,7 @@ Access/Edit mac host file <br>
 Directory commands can be found in the following file: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
 
-<h2>Terminal Configuration</h2>
+<h3 class="subsubTitleSection">Terminal Configuration</h3>
 Create Alias and Export's<br>
 1. Create your alias or export by accessing bash_profile<br>
 <b><i>nano ~/.bash_profile</i></b> <br>
