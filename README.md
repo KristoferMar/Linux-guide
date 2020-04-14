@@ -79,5 +79,9 @@ Below we find how we can change our java version on mac. <br>
 Change default java version manually in terminal <br>
 <a href="https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x">https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x</a><br><br>
 
+<span class="subsubTitleSection" id="Terminal status">Status</span> <br>
+Get uptime on server or mac: <br>
+<b><i>uptime</i></b> <br><br>
+
 <h2>Good to know</h2>
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
