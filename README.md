@@ -1,4 +1,4 @@
-<h2>Terminal-guide</h2>
+<h2 class="subsubTitleSection" id="Terminal Guide">Terminal Guide</h2>
 This is a guide with notes to how to execute different kinds of commands. <br>
 To execute admin commands we make use of the <i>sudo</i> command. <br><br>
 
@@ -87,5 +87,5 @@ Display CPU & Memory usage + more: <br>
 
 <br>
 
-<h2>Good to know</h2>
+<h3 class="subsubTitleSection" id="Good to know">Good to know</h3>
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
