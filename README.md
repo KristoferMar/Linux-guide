@@ -7,8 +7,8 @@ Ctrl + W : delete just a word. <br>
 Ctrl + U : clear up to the beginning. <br>
 Ctrl + C : To Cancle (also in middle line) <br>
 
-<br>
 
+<br>
 <h3 class="subsubTitleSection">Ports</h3>
 List all open ports <br>
 <i> lsof -nPi | grep LISTEN </i>
@@ -16,14 +16,11 @@ List all open ports <br>
 Kill port <br>
 <i><b> kill -9 'PID Number'></b></i><br>
 
+
 <br>
-
 <h3 class="subsubTitleSection">Files</h3>
-<b>Check current directory path<br> </b>
+Check current directory path <br> 
 <i><b>pwd</b></i> <br>
-
-Create folder <br>
-<i><b>mkdir</b></i> <br>
 
 View file without change <br>
 <b><i>less</i></b>
@@ -44,8 +41,12 @@ VSCode: <b><i>code .</i></b> <br>
 Intelij: <b><i>idea .</i></b>
 
 Access/Edit mac host file <br>
-<b><i>sudo nano /private/etc/hosts</i></b><br><br>
+<b><i>sudo nano /private/etc/hosts</i></b><br>
 
+Find a file somewhere <br>
+<b><i>find . -name "foo*"</i></b> <br>
+
+<br>
 <h2>Directories</h2>
 Directory commands can be found in the following file: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
