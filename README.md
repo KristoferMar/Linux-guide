@@ -58,17 +58,19 @@ Create Alias and Export's<br>
 <b><i>source ~/.bash_profile</i></b><br><br>
 
 <h2>Vim</h2>
-Vim is a text editor used to edit and configure files with on Linux/Unix. Vim is upwards compataible to Vi. Below you find the information on how to use VIM / VI. All characters that look eg like this ":s" are executed by pressing enter.<br>
+Vim is a text editor used to edit and configure files with on Linux/Unix. Vim is upwards compataible to Vi. Below you find the<br> information on how to use VIM / VI. All characters that look eg like this ":s" are executed by pressing enter.<br>
 Escape any "Vim mode": <br>
-<i>"press esc" </i> <br>
+<b><i>"press esc" </i></b> <br>
 Insert / edit text: <br>
-<i>:i</i> <br>
+<b><i>"press i" </i></b> <br>
 Save a file and exit: <br>
-<i>:wq</i> <br>
+<b><i>:wq</i></b> <br>
 or <br>
-<i>:x</i> <br>
+<b><i>:x</i></b> <br>
 Trash all changes (exit without saving): <br>
-<i>:q!</i> <br><br>
+<b><i>:q!</i></b> <br>
+
+<br>
 
 <h2>Java</h2>
 
