@@ -44,7 +44,7 @@ Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b><br>
 
 Find a file somewhere <br>
-<b><i>find . -name "foo*"</i></b> <br>
+<b><i>find / -name "foo*"</i></b> <br>
 
 <br>
 <h2>Directories</h2>
