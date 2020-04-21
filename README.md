@@ -43,8 +43,11 @@ Intelij: <b><i>idea .</i></b>
 Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b><br>
 
-Find a file somewhere <br>
-<b><i>find / -name "foo*"</i></b> <br>
+Find a file called testfile.txt in current and sub-directories. <br>
+<b><i>find . -name "testfile.txt"	</i></b> <br>
+Detailed information: <br>
+<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/find.sh" target="_blank">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/find.sh
+</a><br>
 
 <br>
 <h2>Directories</h2>
