@@ -43,6 +43,8 @@ Intelij: <b><i>idea .</i></b>
 Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b><br>
 
+<br>
+<b>Find</b><br>
 Find a file called testfile.txt in current and sub-directories. <br>
 <b><i>find . -name "testfile.txt"	</i></b> <br>
 Detailed information: <br>
