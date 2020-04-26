@@ -14,7 +14,7 @@ List all open ports <br>
 <i> lsof -nPi | grep LISTEN </i>
 
 Kill port <br>
-<i><b> kill -9 'PID Number'></b></i><br>
+<i><b> kill -9 'PID Number'</b></i><br>
 
 
 <br>
