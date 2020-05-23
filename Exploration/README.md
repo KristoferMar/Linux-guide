@@ -4,4 +4,7 @@ This section takes you through how to find out which services are running on a u
 <h3>Services</h3>
 
 Find our which servies are running <br>
-<i>service --status-all</i>
+<i>service --status-all</i><br>
+
+Specific service <br>
+<i>service mysql status</i>
