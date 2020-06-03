@@ -22,6 +22,9 @@ Kill port <br>
 Check current directory path <br> 
 <i><b>pwd</b></i> <br>
 
+Change owner of file or directory <br>
+<i><b>chown newowner filename</b></i> <br>
+
 View file without change <br>
 <b><i>less</i></b>
 Detailed information: <br>
