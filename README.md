@@ -68,8 +68,16 @@ Create Alias and Export's<br>
 1. Create your alias or export by accessing bash_pros<br>
 <b><i>nano ~/.bash_profile</i></b> <br>
 2. Refresh the shell environment <br>
-<b><i>source ~/.bash_profile</i></b><br><br>
+<b><i>source ~/.bash_profile</i></b><br>
 
+
+<br>
+<h3 class="subsubTitleSection">Linux server commands</h3>
+Linux server commands can be found with the following linke: <br>
+<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh" target="_blank" >https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br>
+
+
+<br>
 <h2>Vim</h2>
 Vim is a text editor used to edit and configure files with on Linux/Unix. Vim is upwards compataible to Vi. Below you find the<br> information on how to use VIM / VI. All characters that look eg like this ":s" are executed by pressing enter.<br>
 Escape any "Vim mode": <br>
@@ -86,7 +94,6 @@ Trash all changes (exit without saving): <br>
 <br>
 
 <h2>Java</h2>
-
 Java is configurable on mac. <br>
 
 Below we find how we can change our java version on mac. <br>
