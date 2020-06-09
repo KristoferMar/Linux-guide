@@ -34,7 +34,7 @@ View file for changes (live) <br>
 <b><i>tail -f </i></b><br>
 
 Copy file from one place to another <br>
-- If you are copying a directory you add '-r' after cp for recursive. <br>
+-If you are copying a directory you add '-r' after cp for recursive. <br>
 <b><i>cp 'filename/dir' 'Destination' </i></b><br>
 
 Compleatly remove file by force <br>
