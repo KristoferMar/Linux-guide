@@ -33,6 +33,10 @@ Detailed information: <br>
 View file for changes (live) <br>
 <b><i>tail -f </i></b><br>
 
+Copy file from one place to another <br>
+- If you are copying a directory you add '-r' after cp for recursive. <br>
+<b><i>cp 'filename/dir' 'Destination' </i></b><br>
+
 Compleatly remove file by force <br>
 <i><b> rm -rf "filename"</b> </i> <br>
 
@@ -57,11 +61,11 @@ Detailed information: <br>
 <br>
 <h2>Directories</h2>
 Directory commands can be found in the following file: <br>
-<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh">https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
+<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh" target="_blank" >https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
 
 <h3 class="subsubTitleSection">Terminal Configuration</h3>
 Create Alias and Export's<br>
-1. Create your alias or export by accessing bash_profile<br>
+1. Create your alias or export by accessing bash_pros<br>
 <b><i>nano ~/.bash_profile</i></b> <br>
 2. Refresh the shell environment <br>
 <b><i>source ~/.bash_profile</i></b><br><br>
