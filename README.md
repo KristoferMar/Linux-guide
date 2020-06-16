@@ -89,10 +89,14 @@ Save a file and exit: <br>
 or <br>
 <b><i>:x</i></b> <br>
 Trash all changes (exit without saving): <br>
-<b><i>:q!</i></b> <br>
+<b><i>:q!</i></b><br>
+Copy / paste data can be done by typing ':set paste' and ':set nopaste' when done. <br>
+<b><i>:set paste</i></b> & <b><i>:set nopaste</i></b><br>
+
+
+
 
 <br>
-
 <h2>Java</h2>
 Java is configurable on mac. <br>
 
