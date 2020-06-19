@@ -19,7 +19,7 @@ Kill port <br>
 <br>
 <h2 class="subsubTitleSection">Unix applications</h2>
 Find full path to unix applications<br>
-<i> which 'application name (ssh, scp, etc..)' </i>
+<i> which 'application name (ssh, scp, etc..)' </i> <br>
 
 <br>
 <h3 class="subsubTitleSection">Files</h3>
