@@ -16,6 +16,10 @@ List all open ports <br>
 Kill port <br>
 <i><b> kill -9 'PID Number'</b></i><br>
 
+<br>
+<h2 class="subsubTitleSection">Unix applications</h2>
+Find full path to unix applications<br>
+<i> which 'application name (ssh, scp, etc..)' </i>
 
 <br>
 <h3 class="subsubTitleSection">Files</h3>
