@@ -17,9 +17,12 @@ Kill port <br>
 <i><b> kill -9 'PID Number'</b></i><br>
 
 <br>
-<h2 class="subsubTitleSection">Unix applications</h2>
+<h2 class="subsubTitleSection">Unix functions</h2>
 Find full path to unix applications<br>
-<i> which 'application name (ssh, scp, etc..)' </i> <br>
+<i> which 'application name (ssh, scp, etc..)' </i> <br><br>
+
+Displays information related to file system <br>
+<i>df -h<i><br
 
 <br>
 <h3 class="subsubTitleSection">Files</h3>
