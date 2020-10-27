@@ -20,7 +20,6 @@ Kill port <br>
 <h2 class="subsubTitleSection">Unix functions</h2>
 Find full path to unix applications<br>
 <i> which 'application name (ssh, scp, etc..)' </i> <br><br>
-
 Displays information related to file system <br>
 <i>df -h<i><br
 
