@@ -64,6 +64,8 @@ Detailed information: <br>
 
 <br>
 <h2>Directories</h2>
+Analyse disk space (hunam readable format)<br>
+<i>du -h<i><br>
 Directory commands can be found in the following file: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh" target="_blank" >https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
 
