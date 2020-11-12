@@ -10,10 +10,10 @@ Ctrl + C : To Cancle (also in middle line) <br>
 
 <br>
 <h3 class="subsubTitleSection">Ports</h3>
-List all open ports <br>
+List all open ports <br><br>
 <i> lsof -nPi | grep LISTEN </i>
-
-Kill port <br>
+<br>
+Kill port <br><br>
 <i><b> kill -9 'PID Number'</b></i><br>
 
 <br>
