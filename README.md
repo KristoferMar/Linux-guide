@@ -111,9 +111,9 @@ Delete whole line <br>
 Java is configurable on mac. <br><br>
 
 <h4>Switch Java version with 3 stepps</h4> <br>
-<i>export JAVA_8_HOME=$(/usr/libexec/java_home -v1.8)</i>
-<i>alias java8='export JAVA_HOME=$JAVA_8_HOME'</i>
-<i>export JAVA_HOME=$JAVA_8_HOME</i><br> <br>
+<i>export JAVA_8_HOME=$(/usr/libexec/java_home -v1.8)</i> <br>
+<i>alias java8='export JAVA_HOME=$JAVA_8_HOME'</i> <br>
+<i>export JAVA_HOME=$JAVA_8_HOME</i><br> <br> 
 
 Below we find how we can change our java version on mac. <br>
 <a href="https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions">https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions</a><br>
