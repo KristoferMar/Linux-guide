@@ -16,46 +16,37 @@ List all open ports <br>
 Kill port <br>
 <i><b> kill -9 'PID Number'</b></i><br>
 
+
 <br>
 <h2 class="subsubTitleSection">Unix functions</h2>
 Find full path to unix applications<br>
 <i> which 'application name (ssh, scp, etc..)' </i> <br><br>
 Displays information related to file system <br>
-<i>df -h<i><br
-
+<i>df -h<i><br>
 <br>
 <h3 class="subsubTitleSection">Files</h3>
 Check current directory path <br> 
 <i><b>pwd</b></i> <br>
-
 Change owner of file or directory <br>
 <i><b>chown newowner filename</b></i> <br>
-
 View file without change <br>
 <b><i>less</i></b>
 Detailed information: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md" target="_blank">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/Less.md</a><br>
-
 View file for changes (live) <br>
 <b><i>tail -f </i></b><br>
-
 Copy file from one place to another <br>
 -If you are copying a directory you add '-r' after cp for recursive. <br>
 <b><i>cp 'filename/dir' 'Destination' </i></b><br>
-
 Compleatly remove file by force <br>
 <i><b> rm -rf "filename"</b> </i> <br>
-
 <b>Execute shell scripts <br></b>
 <i>sh 'Drag and drop shell script file' </i><br>
-
 Open file in current directory <br>
 VSCode: <b><i>code .</i></b> <br>
 Intelij: <b><i>idea .</i></b>
-
 Access/Edit mac host file <br>
 <b><i>sudo nano /private/etc/hosts</i></b><br>
-
 <br>
 <b>Find</b><br>
 Find a file called testfile.txt in current and sub-directories. <br>
@@ -63,14 +54,22 @@ Find a file called testfile.txt in current and sub-directories. <br>
 Detailed information: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/find.sh" target="_blank">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/find.sh
 </a><br>
-
 <br>
-<h2>Directories</h2>
+<h3>Directories</h3>
 Analyse disk usage (hunam readable format)<br>
 <i>du -h<i><br><br>
 Directory commands can be found in the following file: <br>
 <a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh" target="_blank" >https://github.com/KristoferMar/Terminal-guide/blob/master/Directories/Commands.sh</a><br><br>
 
+
+<h2>Structure</h2>
+<h3>$PATH</h3>
+It's an environment variable in Linux and other Unix-like operating systems that tells the shell which directories to search for executable files (ready to run programs) in response to commands issued by by the user. <br>
+You can see and edit your $PATH's from '/etc/paths'<br><br>
+Information about:<br>
+<a href="https://www.architectryan.com/2012/10/02/add-to-the-path-on-mac-os-x-mountain-lion/#.Uydjga1dXDg" target="_blank" >https://www.architectryan.com/2012/10/02/add-to-the-path-on-mac-os-x-mountain-lion/#.Uydjga1dXDg</a><br>
+
+<br>
 <h3 class="subsubTitleSection">Terminal Configuration</h3>
 Create Alias and Export's<br>
 1. Create your alias or export by accessing bash_pros<br>
