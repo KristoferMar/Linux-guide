@@ -58,7 +58,7 @@ Detailed information: <br>
 <h4>Sed</h4>
 You can make use of the 'sed' command to search and replace given words in a file. <br>
 Details
-<a href="https://github.com/KristoferMar/Terminal-guide/blob/master/Files/find.sh" target="_blank">https://github.com/KristoferMar/Terminal-guide/blob/master/Files/find.sh
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/Files/sed.md" target="_blank">https://github.com/KristoferMar/Linux-guide/blob/master/Files/sed.md
 </a><br>
 
 <br>
