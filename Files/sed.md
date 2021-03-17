@@ -1,8 +1,8 @@
 <h1>sed</h1>
-Usefull info sites:
-https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/
-
-https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
+Usefull info sites:<br>
+https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/ <br>
+<br>
+https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/<br>
 
 <h2>Find and replace text globally in file</h2>
 <i>sed -i 's/old-text/new-text/g' input.txt</i><br>
