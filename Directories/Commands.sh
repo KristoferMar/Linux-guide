@@ -1,6 +1,9 @@
 # Create a new directory 
 mkdir
 
+# Create multilpe directories recursively
+mkdir -p foo/bar/zoo/andsoforth
+
 # Edit name of a directory
 mv <source_directory> <target_directory>
 
