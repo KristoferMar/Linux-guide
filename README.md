@@ -146,3 +146,5 @@ Display CPU & Memory usage + more: <br>
 
   Guide for creating user and managing it <br>
   https://www.digitalocean.com/community/tutorials/how-to-automate-deployment-using-circleci-and-github-on-ubuntu-18-04
+
+  https://linuxize.com/post/how-to-list-users-in-linux/
