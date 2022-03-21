@@ -11,6 +11,9 @@ Ctrl + C : To Cancle (also in middle line) <br>
 <h2>adduser, addgroup</h2>
 adduser and addgroup add users and groups to the system according to command line options and configuration information in /etc/adduser.conf. 
 
+<b>example</b>
+<pre>groupadd --system nexus -f -g 1001</pre>
+
 <b>link</b>
 https://www.commandlinux.com/man-page/man8/addgroup.8.html
 
