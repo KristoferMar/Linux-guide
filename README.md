@@ -7,6 +7,12 @@ Ctrl + W : delete just a word. <br>
 Ctrl + U : clear up to the beginning. <br>
 Ctrl + C : To Cancle (also in middle line) <br>
 
+<h1>Commands</h1>
+<h2>adduser, addgroup</h2>
+adduser and addgroup add users and groups to the system according to command line options and configuration information in /etc/adduser.conf. 
+
+<b>link</b>
+https://www.commandlinux.com/man-page/man8/addgroup.8.html
 
 <br>
 <h3 class="subsubTitleSection">Ports</h3>
