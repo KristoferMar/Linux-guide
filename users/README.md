@@ -31,11 +31,10 @@ adduser adds users to the system according to command line options and configura
 <b>example</b>
 <pre>groupadd --system nexus -f -g 1001</pre>
 
-<b>link</b>
+<b>link</b> <br>
 https://www.commandlinux.com/man-page/man8/addgroup.8.html
 
 
 
 <h2>Get all users</h2>
-A simple command
 <pre>less /etc/passwd</pre>

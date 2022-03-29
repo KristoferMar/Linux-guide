@@ -149,7 +149,7 @@ Display CPU & Memory usage + more: <br>
   
 
 <h2>Linux users guide</h2>
-<a>link</a>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
   <h1>SSH connection</h1>
   
