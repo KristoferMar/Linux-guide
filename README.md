@@ -147,7 +147,10 @@ Display CPU & Memory usage + more: <br>
 <h3 class="subsubTitleSection" id="Good to know">Good to know</h3>
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
   
-  
+
+<h2>Linux users guide</h2>
+<a>link</a>
+
   <h1>SSH connection</h1>
   
   Restore key config on server <br>
