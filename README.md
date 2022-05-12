@@ -152,12 +152,5 @@ Display CPU & Memory usage + more: <br>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
 <br>
-<h1>SSH connection</h1>
-
-Restore key config on server <br>
-restorecon -R -v ~/.ssh
-
-Guide for creating user and managing it <br>
-https://www.digitalocean.com/community/tutorials/how-to-automate-deployment-using-circleci-and-github-on-ubuntu-18-04
-
-https://linuxize.com/post/how-to-list-users-in-linux/
+<h1>OpenSSH</h1>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
