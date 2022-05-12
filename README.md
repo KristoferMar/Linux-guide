@@ -147,16 +147,17 @@ Display CPU & Memory usage + more: <br>
 <h3 class="subsubTitleSection" id="Good to know">Good to know</h3>
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
   
-
+<br>
 <h2>Linux users guide</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
-  <h1>SSH connection</h1>
-  
-  Restore key config on server <br>
-  restorecon -R -v ~/.ssh
+<br>
+<h1>SSH connection</h1>
 
-  Guide for creating user and managing it <br>
-  https://www.digitalocean.com/community/tutorials/how-to-automate-deployment-using-circleci-and-github-on-ubuntu-18-04
+Restore key config on server <br>
+restorecon -R -v ~/.ssh
 
-  https://linuxize.com/post/how-to-list-users-in-linux/
+Guide for creating user and managing it <br>
+https://www.digitalocean.com/community/tutorials/how-to-automate-deployment-using-circleci-and-github-on-ubuntu-18-04
+
+https://linuxize.com/post/how-to-list-users-in-linux/
