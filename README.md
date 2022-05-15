@@ -161,4 +161,4 @@ Display CPU & Memory usage + more: <br>
 
 <br>
 <h1>Basic Storage</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md">https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md</a>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md</a>
