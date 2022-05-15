@@ -158,3 +158,7 @@ Display CPU & Memory usage + more: <br>
 <br>
 <h1>SELinux Security</h1>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md">https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md</a>
+
+<br>
+<h1>Basic Storage</h1>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md">https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md</a>
