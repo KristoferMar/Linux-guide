@@ -83,7 +83,9 @@ Then we need to mount volume
 
 <br>
 <h3>Extend the logical volume</h3>
-<pre>kvextend -L +300M /dev/vg01/lv01</pre>
+<pre>lvextend -L +300M /dev/vg01/lv01</pre>
+Use "-r" to resize
+<pre>lvextend -n /dev/serverb_01_vg/serverb_01_lv -L 768M -r</pre>
 
 <br>
 <h3>Extend the file system</h3>

@@ -70,3 +70,7 @@ To make sure it persist a reboot - Add swap to /etc/fsconfig
 <pre>...
 UUID="6116brr8-af3f-3462-345g-234f4531r45g5g4" swap swap defaults 0 0
 ...</pre>
+Swap can be added with various priorities ranging from -1 to 32767 and you do that by chaning the default value
+<pre>...
+UUID="6116brr8-af3f-3462-345g-234f4531r45g5g4" swap swap pri=10 0 0
+...</pre>
