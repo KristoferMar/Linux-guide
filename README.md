@@ -162,3 +162,7 @@ Display CPU & Memory usage + more: <br>
 <br>
 <h1>Basic Storage</h1>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md</a>
+
+<br>
+<h2>Logical volumes</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md</a>
