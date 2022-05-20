@@ -17,7 +17,11 @@ Follow these steps as the client
 <pre>
 [user@host ~]$ sudo vim /etc/fstab
 ...
-serverb:/share  /mountpoint  nfs  rw,soft  0 0</pre>
+Server:/path/to/export /local_mountpoint nfs <i>options</i> 0 0</pre>
+
+Information about syntax and options can be found here 
+https://linoxide.com/example-linux-nfs-mount-entry-in-fstab-etcfstab/ 
+
 Then mount
 <pre>[user@host ~]$ sudo mount /mountpoint</pre>
 
