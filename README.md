@@ -156,6 +156,14 @@ Display CPU & Memory usage + more: <br>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
 
 <br>
+<h1>Scheduling Future Tasks</h1>
+
+
+<br>
+<h1>Tuning System Performance</h1>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
+
+<br>
 <h1>SELinux Security</h1>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md">https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md</a>
 
@@ -177,3 +185,8 @@ Display CPU & Memory usage + more: <br>
 
 <br>
 <h1>The Boot Process</h1>
+
+<h3>Restoring root password</h3>
+
+<br>
+<h1>Managing Network Security</h1>
