@@ -157,6 +157,11 @@ Display CPU & Memory usage + more: <br>
 
 <br>
 <h1>Scheduling Future Tasks</h1>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md</a>
+<h3>Scheduling Recurring System Jobs</h3>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md</a>
+<h3>Managing Temporary Files</h3>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/managing_temporary_files.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/managing_temporary_files.md</a>
 
 
 <br>
@@ -185,8 +190,11 @@ Display CPU & Memory usage + more: <br>
 
 <br>
 <h1>The Boot Process</h1>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/boot_process.md">https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/boot_process.md</a>
 
 <h3>Restoring root password</h3>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md">https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md</a>
 
 <br>
 <h1>Managing Network Security</h1>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md">https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md</a>

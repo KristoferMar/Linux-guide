@@ -15,6 +15,8 @@ To reset the root password from this point use the following procedure.
 1. Remount /sysroot as read/write.
 <pre>switch_root:/# mount -o remount,rw /sysroot</pre>
 
+<i>note: /sysroot is a scaled down version of your target's filesystem.</i>
+
 2. Switch into a chroot jail, where /sysroot is treated as the root of the file-system tree.
 
 <pre>switch_root:/# chroot /sysroot </pre>
@@ -28,3 +30,19 @@ To reset the root password from this point use the following procedure.
 <pre>sh-4.4# touch /.autorelabel</pre>
 
 Type exit twice. The first command exits the chroot jail, and the second command exits the initramfs debug shell. 
+
+<br>
+<h1>Approach 2</h1>
+
+1. Reboot machine and press "e" to access edit boot process
+2. in the "linux line" add the following in the end.
+<pre>systemd.debug-shell</pre>
+
+3. press ctrl + x
+4. reboot
+5. send keys "Ctrl + alt + f9" to access shell terminal.
+6. change the password direclt with 
+<pre>passwd</pre>
+
+And as soon as you are through, remember to run
+<pre>systemctl stop debug-shell.service</pre>
