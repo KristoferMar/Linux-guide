@@ -1,3 +1,61 @@
+<h1>Linux</h1>
+<h2>Package management</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
+
+<br>
+<h2>Linux users guide</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
+
+<br>
+<h2>OpenSSH</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
+
+<br>
+<h2>Scheduling Future Tasks</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md</a>
+<h3>Scheduling Recurring System Jobs</h3>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md</a>
+<h3>Managing Temporary Files</h3>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/managing_temporary_files.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/managing_temporary_files.md</a>
+
+
+<br>
+<h2>Tuning System Performance</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
+
+<br>
+<h2>SELinux Security</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md">https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md</a>
+
+<br>
+<h2>Basic Storage</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/basic_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/storage/basic_storage.md</a>
+
+<br>
+<h2>Logical volumes</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/basic_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md</a>
+
+<br>
+<h2>Advanced Storage Features</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/advanced_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/storage/advanced_storage.md</a>
+
+<br>
+<h2>Network-Attached Storage</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/network_attached_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/storage/network_attached_storage.md</a>
+
+<br>
+<h2>The Boot Process</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/boot_process.md">https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/boot_process.md</a>
+
+<h3>Restoring root password</h3>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md">https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md</a>
+
+<br>
+<h2>Managing Network Security</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md">https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md</a>
+
+
+<br>
 <h2 class="subsubTitleSection" id="Terminal Guide">Terminal Guide</h2>
 This is a guide with notes to how to execute different kinds of commands. <br>
 To execute admin commands we make use of the <i>sudo</i> command. <br><br>
@@ -146,55 +204,3 @@ Display CPU & Memory usage + more: <br>
 
 <h3 class="subsubTitleSection" id="Good to know">Good to know</h3>
 - On both mac and windows there is something called the "host file". This file enables us to access websites which are not necesarly on a server and open for the public network yet. To get to the file type 'sudo nano /etc/hosts' and then hit return.
-  
-<br>
-<h2>Linux users guide</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
-
-<br>
-<h1>OpenSSH</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
-
-<br>
-<h1>Scheduling Future Tasks</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md</a>
-<h3>Scheduling Recurring System Jobs</h3>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md</a>
-<h3>Managing Temporary Files</h3>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/managing_temporary_files.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/managing_temporary_files.md</a>
-
-
-<br>
-<h1>Tuning System Performance</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
-
-<br>
-<h1>SELinux Security</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md">https://github.com/KristoferMar/Linux-guide/blob/master/SELinux_Security/SELinux.md</a>
-
-<br>
-<h1>Basic Storage</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/basic_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/storage/basic_storage.md</a>
-
-<br>
-<h2>Logical volumes</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/basic_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/Storage/basic_storage.md</a>
-
-<br>
-<h2>Advanced Storage Features</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/advanced_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/storage/advanced_storage.md</a>
-
-<br>
-<h2>Network-Attached Storage</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/storage/network_attached_storage.md">https://github.com/KristoferMar/Linux-guide/blob/master/storage/network_attached_storage.md</a>
-
-<br>
-<h1>The Boot Process</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/boot_process.md">https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/boot_process.md</a>
-
-<h3>Restoring root password</h3>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md">https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md</a>
-
-<br>
-<h1>Managing Network Security</h1>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md">https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md</a>
