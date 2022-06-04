@@ -1,6 +1,6 @@
 <h1>Linux</h1>
 <h2>Package management</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/basics/package_management.md">https://github.com/KristoferMar/Linux-guide/blob/master/basics/package_management.md</a>
 
 <br>
 <h2>Linux users guide</h2>
