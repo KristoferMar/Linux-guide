@@ -24,3 +24,11 @@ More usefully, it does something in between:
 
 #### MAC Adress
 A MAC address is a hardware identification number that uniquely identifies each device on a network. The MAC address is manufactured into every network card, such as an Ethernet card or Wi-Fi card, and therefore cannot be changed.
+
+# Validate network configuration
+Services: ip 
+
+View ip configuration on network interface
+<pre>ip address show </pre>
+
+
