@@ -29,6 +29,12 @@ A MAC address is a hardware identification number that uniquely identifies each 
 Services: ip 
 
 View ip configuration on network interface
-<pre>ip address show </pre>
+    ip address show
 
+View ip configuration on specific interface
+    ip address show enp3s0
+
+View network performance statistics
+<i>RX = received packets, TX = transmited packets</i>
+    ip -s link show enp3s0
 
