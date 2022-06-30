@@ -9,7 +9,7 @@
 <br>
 
 ## Managing Network
-<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_network">https://github.com/KristoferMar/Linux-guide/tree/master/managing_network</a>
 
 
 <br>
