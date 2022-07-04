@@ -28,6 +28,12 @@ A MAC address is a hardware identification number that uniquely identifies each 
 #### Default Gateway
 A default gateway makes it possible for devices on one network to communicate with devices on another network. If you request a website, the request goes through the default gateway before exiting the local network (LAN).
 
+### Domain name 
+It's a string of text that maps to a numeric IP address, used to access a website from client software. 
+
+### Domain Name System (DNS)
+It turns domain names into IP adresses, which browsers use to load internet pages. The DNS system works much like a phone book by managing the mapping between names and numbers. DNS servers translate requests for names into IP addresses, controlling which server an end user will reach when they type a domain name into their web browser. 
+
 # Validate network configuration
 Services: ip 
 
