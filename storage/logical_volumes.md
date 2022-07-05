@@ -96,3 +96,27 @@ Verify the new size of the mounted filesystem
 <br>
 <h3>Extend the file system</h3>
 <pre>resize2fs /dev/vg01/lv01</pre>
+
+# Reduce LVM
+View lvm and vg
+<pre>kristofermar@fedora:~$ lvs
+
+kristofermar@fedora:~$ vgs</pre>
+
+Check filesystem
+<pre>df -Th</pre>
+
+you MUST unmount the filesystem first
+<pre>umount /storage/data3</pre>
+
+Check filesystem for errors
+<pre>e2fsck -f /dev/mapper/VG-LV</pre>
+
+Now we reduce lvm
+<pre>lvreduce -L 2G -n /dev/VG/LV</pre>
+
+At last we remount our filesystem (configured in /etc/fstab)
+<pre>mount -a</pre>
+
+In case the changes are not implemented we can run
+<pre>resize2fs /dev/VG/LV 2G</pre>
