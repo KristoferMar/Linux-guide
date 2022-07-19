@@ -36,7 +36,7 @@ Second phase
 
 <br>
 <h2>Tuning System Performance</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/tunning_system_performance/tuning_system_performance.md">https://github.com/KristoferMar/Linux-guide/blob/master/tunning_system_performance/tuning_system_performance.md</a>
 
 <br>
 <h2>SELinux Security</h2>
