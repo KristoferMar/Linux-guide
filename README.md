@@ -7,6 +7,12 @@
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
 <br>
+<h2>Controlling Access to Files</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
+
+
+
+<br>
 
 ## Managing Network
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_network">https://github.com/KristoferMar/Linux-guide/tree/master/managing_network</a>
@@ -15,6 +21,9 @@
 <br>
 <h2>OpenSSH</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
+
+<br>
+Second phase
 
 <br>
 <h2>Scheduling Future Tasks</h2>

@@ -25,6 +25,12 @@ There are multiple ways to do this - one is to switch tuned-adm off/on
 [root@host ~]$ tuned-adm active
 No current active profile.</pre>
 
+### Notes
+tuned persists the active profile automatically when it's changed. 
+
+Files related to tuned can be found in <b>/etc/tuned<b>
+
+
 <br>
 <h2>Managing Profiles with Web Console</h2>
 It's also possible to manage Profiles though the web console
