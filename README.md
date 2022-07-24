@@ -27,7 +27,7 @@ Archiving and Transferring Files
 
 <br>
 <h2>Archiving and Transferring Files</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/archiving_and_transferring_files">https://github.com/KristoferMar/Linux-guide/tree/master/archiving_and_transferring_files</a>
 
 
 <br>
