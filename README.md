@@ -76,6 +76,11 @@ Second phase
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md">https://github.com/KristoferMar/Linux-guide/blob/master/boot_process/reset_root_password.md</a>
 
 <br>
+<h2>Installing Red Hat Enterprise Linux</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md">https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md</a>
+
+
+<br>
 <h2>Managing Network Security</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md">https://github.com/KristoferMar/Linux-guide/blob/master/network_security/network_security.md</a>
 
