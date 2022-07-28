@@ -18,12 +18,15 @@
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_network">https://github.com/KristoferMar/Linux-guide/tree/master/managing_network</a>
 
 <br>
-<h2>Managing Local Users and Groups</h2>
+
+<h2>5. Creating, Viewing, and Editing Text Files</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups">https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups</a>
 
 <br>
-<br>4. Creating, Viewing, and Editing Text Files</br>
+
+## 6. Managing Local Users and Groups
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups">https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups</a>
+
 
 <br>
 <h2>OpenSSH</h2>

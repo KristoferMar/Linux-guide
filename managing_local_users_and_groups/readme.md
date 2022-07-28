@@ -1,4 +1,30 @@
 # Managing Local Users and Groups
+Main services
+- useradd
+- usermod
+- chage
+- groupadd
+
+</br>
+
+
+## Groups
+
+Create new group with GID 23000
+<pre>
+[kris@fedora ~]$ sudo groupadd -g 23000 consultants
+</pre>
+
+### Change accessrights for a group
+Configure administrative rights for all members of consultants.
+1. Navigate to "/etc/sudoers.d
+2. Create a new file for the group "sudo vim /etc/sudoers.d/consultants"
+3. Add the following go give full rights
+<pre>
+consultants ALL=(ALL)   ALL
+</pre>
+<br>
+
 
 ## Managing Local User Accounts
 
@@ -16,6 +42,7 @@ Remove user from group
 <pre>
 sudo gpasswd --delete username examplegroup
 </pre>
+</br>
 
 ### Restricting Access
 
@@ -27,7 +54,18 @@ This locks a given acoount at a given time
 [user01@host ~]$ sudo usermod -L -e 2019-10-05 user03
 </pre>
 
-#### The nologin shell
+
+## Manage login
+The following file is important
+<pre>
+/etc/login.defs
+</pre>
+
+This file provides default configuration information for serveral user account paramaters. The useradd, usermod, userdel, and groupadd commands, and other user and group utilities take default values from this file.
+
+<br>
+
+### The nologin shell
 
 The nologin shell acts as a replacement shell for the user accounts not intended to interactivly log into the system. 
 
