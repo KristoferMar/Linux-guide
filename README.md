@@ -6,11 +6,6 @@
 <h2>Linux users guide</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
-<br>
-<h2>Controlling Access to Files</h2>
-<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
-
-
 
 <br>
 
@@ -26,6 +21,9 @@
 
 ## 6. Managing Local Users and Groups
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups">https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups</a>
+
+## 7. Controlling Access to Files
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
 
 <br>

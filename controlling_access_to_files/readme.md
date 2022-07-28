@@ -35,3 +35,7 @@ If you simply just want to overrite for everyone you can add.
 # Overrides default umask configuration
 umask 022
 </pre>
+
+## /etc/profile and profile.d explained
+- /etc/profile sets the environment variables at startup of the bash shell
+- /etc/profile.d directory contains other scripts that contain application-specific startup files, which are also executed at startup time by the shell.
