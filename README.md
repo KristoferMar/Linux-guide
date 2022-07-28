@@ -25,6 +25,11 @@
 ## 7. Controlling Access to Files
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
+</br>
+
+## 8. Monitoring and Managing Linux Processes
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
+
 
 <br>
 <h2>OpenSSH</h2>
