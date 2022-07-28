@@ -21,6 +21,9 @@
 <h2>Managing Local Users and Groups</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups">https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups</a>
 
+<br>
+<br>4. Creating, Viewing, and Editing Text Files</br>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups">https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups</a>
 
 <br>
 <h2>OpenSSH</h2>
