@@ -28,7 +28,7 @@
 </br>
 
 ## 8. Monitoring and Managing Linux Processes
-<a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
+<a href="https://github.com/KristoferMar/Linux-guide/tree/master/monitoring_and_managing_linux_processes">https://github.com/KristoferMar/Linux-guide/tree/master/monitoring_and_managing_linux_processes</a>
 
 
 <br>
