@@ -41,7 +41,11 @@
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/archiving_and_transferring_files">https://github.com/KristoferMar/Linux-guide/tree/master/archiving_and_transferring_files</a>
 
 
+
 <br>
+<h2>11. Analyzing and storing logs</h2>
+<a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a><br>
+
 Second phase
 
 <br>
