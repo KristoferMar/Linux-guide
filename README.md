@@ -46,10 +46,14 @@
 <h2>11. Analyzing and storing logs</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs">https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs</a><br>
 
+<br>
+
 Second phase
 
 <br>
-<h2>Scheduling Future Tasks</h2>
+
+## 2. Scheduling Future Tasks 
+
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_future_tasks.md</a>
 <h3>Scheduling Recurring System Jobs</h3>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md">https://github.com/KristoferMar/Linux-guide/blob/master/scheduling_future_tasks/scheduling_Recurring_System_jobs.md</a>
