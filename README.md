@@ -45,6 +45,7 @@
 <br>
 <h2>11. Analyzing and storing logs</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs">https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs</a><br>
+- NTP, chronyd, chronyc
 
 <br>
 
