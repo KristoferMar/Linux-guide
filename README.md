@@ -127,6 +127,8 @@ https://www.commandlinux.com/man-page/man8/addgroup.8.html
 <h3 class="subsubTitleSection">Ports</h3>
 List all open ports <br>
 <i> lsof -nPi | grep LISTEN </i>
+More details
+<i>sudo netstat -tulpn | grep LISTEN</i>
 <br><br>
 Kill port <br>
 <i><b> kill -9 'PID Number'</b></i><br>
