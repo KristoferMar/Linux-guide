@@ -130,9 +130,8 @@ List all open ports <br>
 <pre>lsof -nPi | grep LISTEN </pre>
 More details
 <pre>sudo netstat -tulpn | grep LISTEN</pre>
-<br><br>
 Kill port <br>
-<i><b> kill -9 'PID Number'</b></i><br>
+<pre> kill -9 'PID Number'</pre>
 
 
 <br>
