@@ -51,6 +51,7 @@
 <br>
 <h2>11. Analyzing and storing logs</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs">https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs</a><br>
+- NTP, chronyd, chronyc
 
 <br>
 
@@ -130,11 +131,13 @@ https://www.commandlinux.com/man-page/man8/addgroup.8.html
 
 <br>
 <h3 class="subsubTitleSection">Ports</h3>
+
 List all open ports <br>
-<i> lsof -nPi | grep LISTEN </i>
-<br><br>
+<pre>lsof -nPi | grep LISTEN </pre>
+More details
+<pre>sudo netstat -tulpn | grep LISTEN</pre>
 Kill port <br>
-<i><b> kill -9 'PID Number'</b></i><br>
+<pre> kill -9 'PID Number'</pre>
 
 
 <br>

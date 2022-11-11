@@ -57,3 +57,17 @@ Get get date & time 30 minuttes ago
 <pre>
 [kristofer@serverb ~]$ date -d "-30 minutes"
 </pre>
+
+# Configure your system so that it is an NTP client of system2.eight.example.com
+
+<pre>
+dnf install chrony* -y
+
+vim /etc/chrony.config
+
+    server 192.168.55.151 iburst
+
+systemctl restart chronyd.service
+
+chronyc sources
+</pre>
