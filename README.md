@@ -1,4 +1,9 @@
 <h1>Linux</h1>
+
+## Vim basics
+
+
+
 <h2>Package management</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/basics/package_management.md">https://github.com/KristoferMar/Linux-guide/blob/master/basics/package_management.md</a>
 
@@ -32,7 +37,8 @@
 
 
 <br>
-<h2>OpenSSH</h2>
+
+## 10. Configuring and Securing SSH 
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
 
 
