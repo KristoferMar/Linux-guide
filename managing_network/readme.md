@@ -34,6 +34,14 @@ It's a string of text that maps to a numeric IP address, used to access a websit
 ### Domain Name System (DNS)
 It turns domain names into IP adresses, which browsers use to load internet pages. The DNS system works much like a phone book by managing the mapping between names and numbers. DNS servers translate requests for names into IP addresses, controlling which server an end user will reach when they type a domain name into their web browser. 
 
+### Public IP
+It's the IP address that can be accessed directly over the internet and is assigned to your network router by your internet service provider (ISP)
+
+You can get your public ip in the following way
+<pre>
+curl ifconfig.me
+</pre>
+
 # Validate network configuration
 Services: ip 
 
