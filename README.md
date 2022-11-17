@@ -1,7 +1,7 @@
 <h1>Linux</h1>
 
 ## Vim basics
-
+https://github.com/KristoferMar/Linux-guide/tree/master/vim_basics
 
 
 <h2>Package management</h2>

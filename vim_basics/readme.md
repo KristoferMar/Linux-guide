@@ -20,6 +20,12 @@ Remove columns blocks (visual block mode)
 </pre>
 
 
+## Copy paste block
+1. Navigate to the very button of the line you want to copy from and press "v"
+2. Mark underlaying lines
+3. press "y" to copy
+4. Press "p" to paste
+
 
 Save and quit
 <pre>
