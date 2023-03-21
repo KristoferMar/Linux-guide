@@ -19,26 +19,26 @@ https://github.com/KristoferMar/Linux-guide/tree/master/vim_basics
 
 <br>
 
-<h2>5. Creating, Viewing, and Editing Text Files</h2>
+<h2>Creating, Viewing, and Editing Text Files</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups">https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups</a>
 
 <br>
 
-## 6. Managing Local Users and Groups
+## Managing Local Users and Groups
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups">https://github.com/KristoferMar/Linux-guide/tree/master/managing_local_users_and_groups</a>
 
-## 7. Controlling Access to Files
+## Controlling Access to Files
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/users">https://github.com/KristoferMar/Linux-guide/tree/master/users</a>
 
 </br>
 
-## 8. Monitoring and Managing Linux Processes
+## Monitoring and Managing Linux Processes
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/monitoring_and_managing_linux_processes">https://github.com/KristoferMar/Linux-guide/tree/master/monitoring_and_managing_linux_processes</a>
 
 
 <br>
 
-## 10. Configuring and Securing SSH 
+## Configuring and Securing SSH 
 <a href="https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md">https://github.com/KristoferMar/Linux-guide/blob/master/ssh.md</a>
 
 
@@ -49,7 +49,7 @@ https://github.com/KristoferMar/Linux-guide/tree/master/vim_basics
 
 
 <br>
-<h2>11. Analyzing and storing logs</h2>
+<h2>Analyzing and storing logs</h2>
 <a href="https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs">https://github.com/KristoferMar/Linux-guide/tree/master/analyzing_and_storing_logs</a><br>
 - NTP, chronyd, chronyc
 
