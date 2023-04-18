@@ -250,6 +250,22 @@ Below we find how we can change our java version on mac. <br>
 Change default java version manually in terminal <br>
 <a href="https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x">https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x</a><br><br>
 
+
+## Change java version on Linux (Fedora)
+1. Check for avaiable java versions
+sudo update-alternatives --config java
+
+2. Set the JAVA_HOME environment variable to the new java version
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-17.0.5.0.8-3.fc36.x86_64
+
+3. Update the system's PATH environment variable to include the new version
+export PATH=$JAVA_HOME/bin:$PATH
+
+4. Check java version 
+java -version
+
+5. If you want to make the changes permanent, add steps 3 and 4 to .bashrc or .bash_profile
+
 <h3 class="subsubTitleSection" id="Terminal status">Status</h3>
 Get uptime in Unix: <br>
 <b><i>uptime</i></b> <br>
